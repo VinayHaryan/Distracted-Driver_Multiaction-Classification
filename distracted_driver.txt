@@ -1,0 +1,16 @@
+1. You need to classify images into these 10 classes
+
+- c0 safe driving
+- c1 texting - right
+- c2 taking on the phone - right
+- c3 texting - left
+- c4 taking on the phone - left
+- c5 operting the radi0
+- c6 drinking
+- c7 reaching behind
+- c8 hair and makeup
+- c9 taking to passenger
+
+2. You need create your train/validation set. make sure that each class    in train/validation is maintained across both the dataset
+
+3. Your solution to the on GitHub repo
